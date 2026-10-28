@@ -1,0 +1,36 @@
+html,
+body {
+  background-color: #ffd166;
+}
+
+#sayHiButton {
+  display: block;
+  margin: 20px auto;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 48px;
+  font-weight: 800;
+  outline: none;
+  color: #fff;
+  background-color: #ef476f;
+  border-radius: 8px;
+  box-shadow: 0 6px 4px 0 rgba(0, 0, 0, 0.14);
+}
+
+#sayHiButton:hover {
+  transform: translateY(3px);
+  box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.14);
+}
+
+#greeting {
+  color: #26547c;
+  display: none;
+  text-align: center;
+  font-size: 96px;
+  text-transform: uppercase;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
