@@ -4,9 +4,9 @@ This project is an example of a simple engineering project for investigation and
 
 The software is a basic "Hello World" web application that demonstrates the use of HTML, JavaScript, and CSS.
 
-The purpose of creating this software is to practice and showcase my skills in web development, including structuring web pages with HTML, styling with CSS, and adding interactivity with JavaScript.
+The purpose of creating this software is to practice presenting demos of different skills in web development, including structuring web pages with HTML, styling with CSS, and adding interactivity with JavaScript.
 
-[Software Demo Video](https://youtu.be/OrFglurCfqI)
+[Software Demo Video](https://youtu.be/DdbBLLMkTqc)
 
 # Development Environment
 
